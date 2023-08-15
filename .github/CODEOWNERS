@@ -1,2 +1,2 @@
-user_name = 'softservedata'
+User #{softservedata}
 content = @obj.file_branch('CODEOWNERS', 'main')
