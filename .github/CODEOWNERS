@@ -1,2 +1,2 @@
-'softservedata'
+softservedata
 @obj.file_branch('CODEOWNERS', 'main')
