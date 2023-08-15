@@ -1,2 +1,3 @@
 User #{softservedata}
-content = @obj.file_branch('CODEOWNERS', 'main')
+@obj.file_branch('CODEOWNERS', 'main')
+* @online-marathon
