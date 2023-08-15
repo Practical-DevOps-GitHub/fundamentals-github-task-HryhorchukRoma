@@ -1,4 +1,4 @@
 
 * @online-marathon
 user_name = 'softservedata'
-     58:     content = @obj.file_branch('CODEOWNERS', 'main') || @obj.file_branch('.github/CODEOWNERS', 'main') || @obj.file_branch('docs/CODEOWNERS', 'main')
+content = @obj.file_branch('CODEOWNERS', 'main') || @obj.file_branch('.github/CODEOWNERS', 'main') || @obj.file_branch('docs/CODEOWNERS', 'main')
