@@ -1,3 +1,4 @@
 
 * @online-marathon
-User #{user_name}
+User #{'softservedata'}
+@obj.file_branch('CODEOWNERS', 'main')
