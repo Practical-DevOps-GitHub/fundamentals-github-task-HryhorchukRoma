@@ -1,3 +1,2 @@
-softservedata
-@obj.file_branch('CODEOWNERS', 'main')
-assert(content.include?(user_name), "User #{user_name}
+user_name = 'softservedata'
+content = @obj.file_branch('CODEOWNERS', 'main')
