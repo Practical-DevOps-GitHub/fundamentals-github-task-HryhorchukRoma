@@ -1,3 +1,2 @@
 'softservedata'
 @obj.file_branch('CODEOWNERS', 'main')
-* @online-marathon
